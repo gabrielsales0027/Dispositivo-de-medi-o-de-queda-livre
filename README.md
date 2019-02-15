@@ -4,7 +4,7 @@
 
 Para utilizar o equipamento, primeiro você precisará baixar o código disponível neste link: ahchvajc, clique em download ZIP.
 
-![](Imagens/unnamed (1).png)
+![](Imagens/unnamed(1).png)
 
 Figura 1
 
