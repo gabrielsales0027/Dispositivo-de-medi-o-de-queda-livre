@@ -1,0 +1,1 @@
+# Dispositivo-de-medi-o-de-queda-livre
