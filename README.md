@@ -9,13 +9,13 @@ Em seguida descompacte o arquivo no seu computador e o abra no programa Qt Creat
 ![](Imagens/unnamed.png)
 Figura 2
 Após feito isso, conecte o cabo USB ao seu computador e ao arduino nano.
-![](Imagens/1AC07_Arduino_Nano_V3.0.png)
+![](Imagens/1AC07_Arduino_Nano_V3.0.jpg)
 Figura 3
 Para dar inicio a aplicação, clique em “Run” no Qt Creator.
 ![](Imagens/image1.png)
 Figura 4
 Por fim, lance o objeto do topo do equipamento, no espaço indicado abaixo:
-![](Imagens/ta.png)
+![](Imagens/ta.jpg)
 Figura 5
 E analise os gráficos gerados no computador.
 
