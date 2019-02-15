@@ -13,7 +13,6 @@ float f1,f2;
 float g;
 unsigned long totalTime = 2000000, initialTime;
 
-
 void setup() {
   Serial.begin(115200);
 }
@@ -26,8 +25,7 @@ void loop() {
        r3 = -1;
        a1 = -1;
        a2 = -1;
-       a3 = -1;
-      
+       a3 = -1;   
         
         initialTime = micros();
         while(micros() - initialTime < totalTime){
